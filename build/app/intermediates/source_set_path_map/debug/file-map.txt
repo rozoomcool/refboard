@@ -1,0 +1,13 @@
+ru.itabrek.refboard.app-jetified-window-java-1.0.0-beta04-0 C:\Users\rozoomcool\.gradle\caches\transforms-3\006d93cd422dbc43e89591147c2de572\transformed\jetified-window-java-1.0.0-beta04\res
+ru.itabrek.refboard.app-core-1.6.0-1 C:\Users\rozoomcool\.gradle\caches\transforms-3\4ca28c4a71705f8a687c69dda140a277\transformed\core-1.6.0\res
+ru.itabrek.refboard.app-jetified-annotation-experimental-1.1.0-2 C:\Users\rozoomcool\.gradle\caches\transforms-3\8965c941cf4bee4d72541b965c7c9d39\transformed\jetified-annotation-experimental-1.1.0\res
+ru.itabrek.refboard.app-jetified-window-1.0.0-beta04-3 C:\Users\rozoomcool\.gradle\caches\transforms-3\dee59bb480020f42d53c2ea15e4501f7\transformed\jetified-window-1.0.0-beta04\res
+ru.itabrek.refboard.app-debug-4 X:\rozoomcool\Documents\Projects\Flutter\refboard\android\app\src\debug\res
+ru.itabrek.refboard.app-main-5 X:\rozoomcool\Documents\Projects\Flutter\refboard\android\app\src\main\res
+ru.itabrek.refboard.app-pngs-6 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\generated\res\pngs\debug
+ru.itabrek.refboard.app-resValues-7 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\generated\res\resValues\debug
+ru.itabrek.refboard.app-rs-8 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\generated\res\rs\debug
+ru.itabrek.refboard.app-mergeDebugResources-9 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\intermediates\incremental\debug\mergeDebugResources\merged.dir
+ru.itabrek.refboard.app-mergeDebugResources-10 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+ru.itabrek.refboard.app-merged_res-11 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\app\intermediates\merged_res\debug
+ru.itabrek.refboard.app-packaged_res-12 X:\rozoomcool\Documents\Projects\Flutter\refboard\build\path_provider_android\intermediates\packaged_res\debug
